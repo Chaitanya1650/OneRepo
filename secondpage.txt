@@ -1,0 +1,12 @@
+<!DocTYPE html>
+<html>
+<head>
+<title>This is a second page</title>
+</head>
+<body>
+<h1>Enter your name</h1>
+<h2>Enter your EMP ID</h2>
+<a href="https://www.amazon.in"Visit Amazon</a>
+<img src="2.png" width="120" height="120">
+</body>
+</html>
