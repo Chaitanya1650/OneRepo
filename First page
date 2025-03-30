@@ -6,5 +6,6 @@
 <h1>Thiis is a first page</h1>
 <img src="2.png" width="200" height="200">
 <p>This is a detail view of the page</p>
+<h2>new line</h2>
 </body>
 </html>
